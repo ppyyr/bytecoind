@@ -1,0 +1,2 @@
+# bytecoind
+dockerfile for bytecoind
